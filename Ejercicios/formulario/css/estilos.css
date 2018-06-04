@@ -1,0 +1,27 @@
+textarea{
+  width: 200px;
+}
+body{
+  margin-top: 20px;
+  margin-right: 20px;
+  font-family: Verdana;
+}
+
+input[name^=email]{
+	background-color: #eeeeee;
+}
+
+
+p:nth-child(3) {
+	color: blue;
+}
+p:nth-child(5) {
+	color: blue;
+}
+p, label{
+	font-family: Tahoma;
+}
+
+p > textarea{
+	width: 200px;
+}

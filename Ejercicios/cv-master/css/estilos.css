@@ -3,6 +3,8 @@ body{
 }
 footer{
   margin-top: 20px;
+  color:white;
+text-align: center;
 }
 img{
   border-radius: 10px;
@@ -23,4 +25,15 @@ img{
 }
 .enlace{
   color:white;
+}
+a[href]{
+  color:white;
+}
+
+a:hover{
+  color:black;
+}
+
+h2:first-child{
+  text-decoration: underline;
 }
