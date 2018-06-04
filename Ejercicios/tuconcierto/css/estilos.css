@@ -1,17 +1,42 @@
+
+body p{
+	color: green;
+}
+
+
 body {
     background-color: black;
-    color:white;
+    color:white!important;
     font-family: verdana;
 }
-img{
+img {
   background-color: white;
 }
-h1{
+h1 {
   Color:white;
   font-family: Arial;
 }
 
-p{
+p {
   Color:white;
   font-family: arial;
+}
+a {
+  Color:white;
+  font-family: arial;
+}
+div {
+margin-top: 10px;
+margin-left: 20px;
+}
+div {
+display: block;
+diplay: block;
+}
+body{
+	color: red;
+}
+
+p{
+  color:blue;
 }
